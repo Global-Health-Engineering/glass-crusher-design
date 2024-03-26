@@ -15,7 +15,7 @@ This contains the information allowing for designing and constructing the low-co
 
 The test image is here:
 
-![plot](img/test-image.jpg)
+<img src="img/test-image.jpg" width="400">
 
 ### Usage
 
