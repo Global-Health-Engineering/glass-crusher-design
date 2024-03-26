@@ -13,6 +13,10 @@ This contains the information allowing for designing and constructing the low-co
 
 ### Assembly
 
+The test image is here:
+
+![plot](img/test-image.jpg)
+
 ### Usage
 
 ## Test results
