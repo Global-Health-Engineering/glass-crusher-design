@@ -1,5 +1,6 @@
 ---
-title: "Design, Maintenance, and Operation of the Low-Cost Glass Crusher for Chembe, Malawi"
+title: "Low-Cost Glass Crusher for Chembe, Malawi"
+subtitle: "Design, Maintenance, Operation, and Results"
 format: html
 ---
 
