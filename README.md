@@ -19,7 +19,7 @@ This contains the information allowing for designing and constructing the low-co
 | Motorcycle Chain <br> Size 520 x 66 links (minimum) | 2 | 70'000 | 140'000 | 79.55 | |
 | Motorcycle Sprocket <br> Size 520 x 13T | 3 | 28'000 | 84'000 | 47.73 | |
 | Motorcycle Sprocket <br> Size 520 x 42T | 1 | 65'000 | 65'000 | 36.93 | |
-| PVC pipe <br> Ø<sub>o</sub> 25 mm x 3'000 mm | 1 | 3'300 | 3'300 | 1.88 | |
+| PVC pipe <br> Ø<sub>i</sub> 22 mm x Ø<sub>o</sub> 25 mm x 3'000 mm | 1 | 3'300 | 3'300 | 1.88 | |
 | PVC straight pipe connector <br> Øi 50 mm x 50 mm | 3 | 1'200 | 3'600 | 2.05 | |
 | Screws, nuts, and washers: <br> 24x screw M6x16 <br> 1x screw M6x20 <br> 2x screw M6x25 <br> 12x screw M6x30 <br> 4x screw M6x45 <br> 2x stud M6x20 <br> 53x nut M6 <br> 67x washer M6 <br> 5x screw M10x20 <br> 12x screw M10x30 <br> 1x stud M10x90 <br> 2x stud M10x120 <br> 23x nut M10 <br> 19x washer M10 | 1 | 49'600 | 49'600 | 28.18 | |
 | Steel bar flat <br> 2.75 mm x 20 mm x 5'800 mm | 1 | 6'000 | 6'000 | 3.41 | |
