@@ -22,7 +22,7 @@
 This work is certified by the Open Source Hardware Association.<br \>
 <a href="TO_BE_FILLED"><img src="img/TO_BE_FILLED" width=300></a>
 <br>
-<b>Complete description of the system design, its functionalities; use, and maintenance procedures are available on:<br \>
+<b>Complete description of system design, its construction process; operation, and maintenance procedures is available on:<br \>
 <a href="https://global-health-engineering.github.io/glass-crusher-design/">Github pages</a>.
 </b>
 <br><br>
