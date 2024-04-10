@@ -5,10 +5,10 @@ format: html
 
 <h1>Table of Contents</h1>
 
-1. [Prototype Operation](#1-prototype-operation)
-2. [Prototype Maintenance](#2-prototype-maintenance)
-   1. [What if the machine jams](#21-what-if-the-machine-jams)
-   2. [Replacing the chain](#22-replacing-the-chain)
+1. Prototype Operation
+2. Prototype Maintenance
+   1. What if the machine jams
+   2. Replacing the chain
 
 # 1. Prototype Operation
 
