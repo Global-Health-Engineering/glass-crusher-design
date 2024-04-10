@@ -1,0 +1,51 @@
+---
+title: "Prototype Operation & Maintenance"
+format: html
+---
+
+<h1>Table of Contents</h1>
+
+1. [Prototype Operation](#1-prototype-operation)
+2. [Prototype Maintenance](#2-prototype-maintenance)
+   1. [What if the machine jams](#21-what-if-the-machine-jams)
+   2. [Replacing the chain](#22-replacing-the-chain)
+
+# 1. Prototype Operation
+
+# 2. Prototype Maintenance
+
+It is possible to almost entirely disassemble the glass crusher, but it is highly recommended not to do so unless absolutely necessary. It is recommended to grease the chain and the sprockets from time to time to prevent rust and ensure smooth operation. To do so, you need to:
+
+1. Put a bucket underneath the crusher. Place it as high up as possible by stacking bricks under it.
+2. Throw in the glass through the chute. Avoid putting in too much at a time.
+3. Slowly turn the crank. If there is a noticeable resistance buildup, do not force the crank further. Instead, rotate it backward a bit, then go forward again. It might be necessary to repeat this multiple times. If this does not solve the issue, refer to the section [If the machine jams](#431-if-the-machine-jams).
+4. Once all the glass has been crushed, the bucket can be removed.
+
+## 2.1. What if the machine jams
+
+If something jams the machine, it usually suffices to reach into the crusher and remove the piece that is causing the jam by hand. Make sure that no other person is using the crusher in the meantime. If possible, firmly hold the crank with your free hand to make sure the rollers do not start moving on their own.
+
+If the issue is not solvable by reaching in through the top, the top structure is designed to be removable. To do so, proceed as follows:
+
+1. Remove the screw nut at the back.
+2. Rotate the top upwards. Lifting it off the screw requires a bit of force.
+3. Once rotated, slide it off the two pins at the front and the top has been successfully removed.
+
+![Figure 1. Procedure for removing the top.](img/schematics/maintenance-opening.png){width=100%}
+
+To put it back, follow the same procedure in reverse:
+
+1. Place the front of the top into the crusher and slide it onto the two pins.
+2. Rotate the top’s back downwards. Fitting the screw into the slit requires a good amount of force. It can be helpful to put a finger around the screw and pull it backwards.
+3. Put the nut back onto the screw.
+
+## 2.2. Replacing the chain
+
+At some point, it might be necessary to replace one of the two 520 motorcycle chains. To do so, proceed as follows:
+
+1. Loosen the two cylinders (see picture) so that they can slide upwards.
+2. With the tension removed, remove the chain. Now is a good time to check if the plastic sleeves around the tubes are still in an acceptable condition. If not, replace them. Put on the new chain.
+3. Slide the tubes back downwards to put tension on the chain, make sure the chain is in contact with the plastic sleeves, and fasten the two screws.
+4. Pull on the chain to check that it is not too loose, then turn the crank to make sure that there is not too much tension. If necessary, readjust.
+
+![Figure 2. Chain tightening cylinders - loosen for chain replacement.](img/schematics/chain-replacement-cylinders.png){width=80%}
