@@ -19,7 +19,7 @@
 <p align="middle"> 
 <img src="img/ETH_GHE_logo.svg" width=600>
 <br><br>
-<b><b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
+<b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
 <a href="https://global-health-engineering.github.io/glass-crusher-design/">Github pages</a>.
 </b>
 <br><br>
