@@ -1,6 +1,7 @@
 ---
-title: "Low-Cost Glass Crusher for Chembe, Malawi"
+title: "Low-Cost Glass Crusher for Cape Maclear, Malawi"
 subtitle: "Design, Maintenance, Operation, and Results"
+number-sections: true
 format: html
 ---
 
@@ -21,21 +22,27 @@ format: html
 
 <h1>Table of Contents</h1>
 
-1. Introduction
-2. Prototype overview
-3. Parts List
-4. Safety Precautions
-5. License
+[-@sec-intro]. Introduction  
+[-@sec-overview]. Prototype overview  
+[-@sec-list]. Part List  
+[-@sec-safety]. Safety Precautions  
+[-@sec-license]. License  
 
-# 1. Introduction
+# Introduction {#sec-intro}
 
-This contains the information allowing for constructing and operating the manual, low-cost glass crusher.
+This documentation details the construction, operation, and maintenance of the glass crusher that was built as part of a collaboration between the Malawian nonprofit organization Sustainable Cape Maclear and the Global Health Engineering Group at ETH Zürich.
 
-# 2. Prototype overview
+# Prototype overview {#sec-overview}
 
-To be filled.
+The glass crusher uses two roller mills to crush the glass. The rollers are rotated using a crank and a drivetrain made mostly from motorcycle parts. It is a mostly closed construction to shield the operator(s) from glass dust and shards.
 
-# 3. Parts List
+![Figure 1: Complete assembly of the glass crusher.](img/crusher.jpg){width=100%}
+
+During testing, it became clear that the crusher was not strong enough to break intact glass bottles. Therefore, an additional pre-crusher was built to break the bottles first before inserting their shards into the main crusher for further refinement.
+
+Unless explicitly stated otherwise, all information in this documentation relates to the main glass crusher, not the pre-crusher.
+
+# Part List {#sec-list}
 
 | Material | Units | Unit Cost (MWK) | Total Cost (MWK) | Total Cost (USD) | Notes |
 | :--- | ---: | ---: | ---: | ---: | --- |
@@ -68,10 +75,10 @@ To be filled.
 
 [^1]: 24 x screw M6 x 16,1 x screw M6 x 20, 2 x screw M6 x 25, 12 x screw M6 x 30, 4 x screw M6 x 45, 2 x stud M6 x 20, 53 x nut M6, 67 x washer M6, 5 x screw M10 x 20 <br> 12 x screw M10 x 30, 1 x stud M10 x 90, 2 x stud M10 x 120, 23 x nut M10, 19 x washer M10
 
-# 4. Safety Precautions
+# Safety Precautions {#sec-safety}
 
 Always wear protective equipment when working with glass. A mask, goggles, gloves and closed footwear are essential for protecting the operator’s health.
 
-# 5. License
+# License {#sec-license}
 
 The complete design and user manual are licensed under [Creative Commons Attribution 4.0 International](https://github.com/Global-Health-Engineering/glass-crusher-design/blob/main/LICENSE.md).

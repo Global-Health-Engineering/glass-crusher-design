@@ -2,14 +2,14 @@
   {
     "objectID": "index.html#safety-precautions",
     "href": "index.html#safety-precautions",
-    "title": "Design, Maintenance, and Operation of the Low-Cost Glass Crusher for Chembe, Malawi",
-    "section": "4. Safety Precautions",
-    "text": "4. Safety Precautions\nAlways wear protective equipment when working with glass. A mask, goggles, gloves and closed footwear are essential for protecting the operator’s health."
+    "title": "Low-Cost Glass Crusher for Chembe, Malawi",
+    "section": "3.1 Safety Precautions",
+    "text": "3.1 Safety Precautions\nAlways wear protective equipment when working with glass. A mask, goggles, gloves and closed footwear are essential for protecting the operator’s health."
   },
   {
     "objectID": "index.html#footnotes",
     "href": "index.html#footnotes",
-    "title": "Low-Cost Glass Crusher for Chembe, Malawi",
+    "title": "Low-Cost Glass Crusher for Cape Maclear, Malawi",
     "section": "Footnotes",
     "text": "Footnotes\n\n\n24 x screw M6 x 16,1 x screw M6 x 20, 2 x screw M6 x 25, 12 x screw M6 x 30, 4 x screw M6 x 45, 2 x stud M6 x 20, 53 x nut M6, 67 x washer M6, 5 x screw M10 x 20  12 x screw M10 x 30, 1 x stud M10 x 90, 2 x stud M10 x 120, 23 x nut M10, 19 x washer M10↩︎"
   },
@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Low-Cost Glass Crusher for Chembe, Malawi",
+    "title": "Low-Cost Glass Crusher for Cape Maclear, Malawi",
     "section": "",
-    "text": "Contributors:\n- Philippe Colbach   0009-0004-5631-8744  author, maintainer\n- Elizabeth Tilley   0000-0002-2095-9724  supervisor\n- Jakub Tkaczuk   0000-0001-7997-9423  supervisor, developer"
+    "text": "Contributors:\n- Philippe Colbach   0009-0004-5631-8744  author, maintainer\n- Elizabeth Tilley   0000-0002-2095-9724  supervisor\n- Jakub Tkaczuk   0000-0001-7997-9423  supervisor, developer\n1. Introduction\n2. Prototype overview\n3. Part List\n4. Safety Precautions\n5. License"
   },
   {
     "objectID": "operation-maintenance.html",
@@ -54,5 +54,138 @@
     "title": "Prototype Operation & Maintenance",
     "section": "2.1. What if the machine jams",
     "text": "2.1. What if the machine jams\nIf something jams the machine, it usually suffices to reach into the crusher and remove the piece that is causing the jam by hand. Make sure that no other person is using the crusher in the meantime. If possible, firmly hold the crank with your free hand to make sure the rollers do not start moving on their own.\nIf the issue is not solvable by reaching in through the top, the top structure is designed to be removable. To do so, proceed as follows:\n\nRemove the screw nut at the back.\nRotate the top upwards. Lifting it off the screw requires a bit of force.\nOnce rotated, slide it off the two pins at the front and the top has been successfully removed.\n\n\n\n\nFigure 1. Procedure for removing the top.\n\n\nTo put it back, follow the same procedure in reverse:\n\nPlace the front of the top into the crusher and slide it onto the two pins.\nRotate the top’s back downwards. Fitting the screw into the slit requires a good amount of force. It can be helpful to put a finger around the screw and pull it backwards.\nPut the nut back onto the screw."
+  },
+  {
+    "objectID": "operation-maintenance.html#sec-jam",
+    "href": "operation-maintenance.html#sec-jam",
+    "title": "Prototype Operation & Maintenance",
+    "section": "2.3 What if the machine jams?",
+    "text": "2.3 What if the machine jams?\nIf something jams the machine, it usually suffices to reach into the crusher and remove the piece that is causing the jam by hand. Make sure that no other person is using the crusher in the meantime. If possible, firmly hold the crank with your free hand to make sure the rollers do not start moving on their own.\nIf the issue is not solvable by reaching in through the top, the top structure is designed to be removable. To do so, proceed as follows:\n\nRemove the screw nut at the back.\nRotate the top upwards. Lifting it off the screw requires a bit of force.\nOnce rotated, slide it off the two pins at the front and the top has been successfully removed.\n\n\n\n\nFigure 2. Procedure for removing the top.\n\n\nTo put it back, follow the same procedure in reverse:\n\nPlace the front of the top into the crusher and slide it onto the two pins.\nRotate the top’s back downwards. Fitting the screw into the slit requires a good amount of force. It can be helpful to put a finger around the screw and pull it backwards.\nPut the nut back onto the screw."
+  },
+  {
+    "objectID": "operation-maintenance.html#sec-chain",
+    "href": "operation-maintenance.html#sec-chain",
+    "title": "Prototype Operation & Maintenance",
+    "section": "2.2 Replacing the chain",
+    "text": "2.2 Replacing the chain\nAt some point, it might be necessary to replace one of the two 520 motorcycle chains. To do so, proceed as follows:\n\nLoosen the two cylinders (see Figure 1) so that they can slide upwards.\nWith the tension removed, remove the chain. Now is a good time to check if the plastic sleeves around the tubes are still in an acceptable condition. If not, replace them. Put on the new chain.\nSlide the tubes back downwards to put tension on the chain, make sure the chain is in contact with the plastic sleeves, and fasten the two screws.\nPull on the chain to check that it is not too loose, then turn the crank to make sure that there is not too much tension. If necessary, readjust."
+  },
+  {
+    "objectID": "construction.html",
+    "href": "construction.html",
+    "title": "Prototype Construction",
+    "section": "",
+    "text": "Table of Contents"
+  },
+  {
+    "objectID": "construction.html#sec-base-frame",
+    "href": "construction.html#sec-base-frame",
+    "title": "Prototype Construction",
+    "section": "2.1 Base Frame",
+    "text": "2.1 Base Frame\nStart by welding the connecting bars (1) & (8) to the corner profiles (6) & (7) - numbered parts shown in Figure 2. Weld the main funnel panels (3) to the corner profiles, then add the funnel’s side panels (2) and the extensions (4) & (5). Make sure to leave enough space between the funnel panels (3) and the M10 screw slits on the corner profiles (6) & (7) so that it is still possible to fit in an M10 nut later.\n\n\n\nFigure 1: Side views and a 3D view of the base frame.\n\n\n\n\n\nFigure 2: Part list of the base frame.\n\n\n\n\n\nFigure 3: Constraints on the base frame design."
+  },
+  {
+    "objectID": "construction.html#sec-crank",
+    "href": "construction.html#sec-crank",
+    "title": "Prototype Construction",
+    "section": "2.2 Crank",
+    "text": "2.2 Crank\nThe crank consists mostly of pipes and pipe fittings screwed together, but a couple of welds are required. It is easiest to start with the latter. Weld the sprocket plate (3) onto the crank’s shaft (2) - numbered parts shown in Figure 4. Make sure the plate is centered relative to the pipe and remember to leave out the screw-adjacent sections, as there might not be enough space for the screw head (10) otherwise. Now the sprocket (1) can be mounted onto the plate and the rest of the pipes can be screwed onto the shaft. Do not forget to put the sleeve (4) over the crank’s handle (9), although it can easily be added later.\n\n\n\nFigure 4: Part list of the crank assembly.\n\n\n\n\n\nFigure 5: Crank overview."
+  },
+  {
+    "objectID": "construction.html#sec-crank-side-panel",
+    "href": "construction.html#sec-crank-side-panel",
+    "title": "Prototype Construction",
+    "section": "2.3 Crank Side Panel",
+    "text": "2.3 Crank Side Panel\nWeld the corner bracket (4), its spacer (3), and the stud (1) to the panel (2) - numbered parts shown in Figure 7. For the bearing brackets, either start by welding the bracket base (7) to the panel and then finish the bracket from there or build the brackets independently and weld them to the panel once they are finished. Either way, precision is key: A precise placement ensures a smooth drivetrain motion.\nIt is equally important to weld the junction between the bracket base (7) and bracket side (8) on the inside first, and only afterwards on the outside, to make sure the side pieces are going to exert a clamping force on the bearing (5). Once the side pieces are welded, the best approach is to mount the bearings on the crank’s shaft first, then place them into their respective bracket and in a last step, add each bracket’s top piece (6).\n\n\n\nFigure 6: Side panel assembly.\n\n\n\n\n\nFigure 7: Part list of the side panel.\n\n\n\n\n\nFigure 8: Detailed view of the side panel."
+  },
+  {
+    "objectID": "construction.html#sec-chain-guides",
+    "href": "construction.html#sec-chain-guides",
+    "title": "Prototype Construction",
+    "section": "2.4 Chain Guides",
+    "text": "2.4 Chain Guides\nThe long and short chain guides both follow the same assembly scheme, which is why only the short one’s is described here. Start by welding the connecting pieces (5) to the stud (2), then weld it to the pipe’s inner wall (3) - numbered parts shown in Figure 10. Add the sleeve (1) and fix it in place using two zip ties (4).\n\n\n\nFigure 9: Chain guide assembly.\n\n\n\n\n\nFigure 10: Chain guide part list.\n\n\n\n\n\nFigure 11: Constraints imposed on the chain guide assembly."
+  },
+  {
+    "objectID": "construction.html#sec-drivetrain-panel",
+    "href": "construction.html#sec-drivetrain-panel",
+    "title": "Prototype Construction",
+    "section": "2.5 Drivetrain Panel",
+    "text": "2.5 Drivetrain Panel\nNext up is the drivetrain panel. Start by welding the roller platform (9) to the panel (7) - numbered parts shown in Figure 13. Use two M10 screws to facilitate their alignment. Add the two inserts (9) and flatten the welds. Add the flat mounting bar (2), its supports (3) & (4), and the corner profile (5). Finish it up by installing the chain guides. Make sure to place the short one (1) into the corner profile (5), and the longer ones (8) into the flat bar (2).\n\n\n\nFigure 12: Drive train assembly.\n\n\n\n\n\nFigure 13: Drive train part list.\n\n\n\n\n\nFigure 14: Constraints imposed on the drive train assembly."
+  },
+  {
+    "objectID": "construction.html#sec-roller-brackets",
+    "href": "construction.html#sec-roller-brackets",
+    "title": "Prototype Construction",
+    "section": "2.7 Roller Bearing Brackets",
+    "text": "2.7 Roller Bearing Brackets\nThe construction procedure is identical for both the movable and fixed brackets. Start by welding the bracket’s side pieces (7) to the base (1) - numbered parts shown in Figure 18. Add the backplate (4) and use the clamping plate (3) to hold the bearing (2) in place.\n\n\n\nFigure 17: Roller bearing bracket assembly.\n\n\n\n\n\nFigure 18: Part list of the roller bearing bracket.\n\n\n\n\n\nFigure 19: Constraints imposed on the roller bearing bracket assembly."
+  },
+  {
+    "objectID": "construction.html#sec-rollers",
+    "href": "construction.html#sec-rollers",
+    "title": "Prototype Construction",
+    "section": "2.8 Rollers",
+    "text": "2.8 Rollers\nWeld the ten square profiles (3) to the roller body (1) - numbered parts shown in Figure 21. Make sure to keep an even spacing between the profiles to avoid collisions during operation. The last step consists of adding the bearing brackets (2) to the roller.\n\n\n\nFigure 20: Roller assembly.\n\n\n\n\n\nFigure 21: Part list of the roller assembly.\n\n\n\n\n\nFigure 22: Constraints imposed on the roller assembly."
+  },
+  {
+    "objectID": "construction.html#sec-large-sprocket",
+    "href": "construction.html#sec-large-sprocket",
+    "title": "Prototype Construction",
+    "section": "2.9 Sprocket Module (Large)",
+    "text": "2.9 Sprocket Module (Large)\nWeld the plate fixations (5) to the backplate (3) - numbered parts shown in Figure 24. To ensure a good fit, it is best to only weld one of the fixation pieces at first, then mount the backplate plate onto the shaft using the two screws (4) and the second fixation piece to temporarily hold it in place, and only then weld the second fixation piece to the plate. Remember that the roller shafts have a flat cutout and that the centerline between the plate fixations does not align with the roller’s center of rotation. Next, weld the two screw heads (4) to the plate fixation. Mount the small sprocket (2) on the front plate (1) before attaching everything to the large sprocket (4).\n\n\n\nFigure 23: Large sprocket module assembly.\n\n\n\n\n\nFigure 24: Part list of the large sprocket module.\n\n\n\n\n\nFigure 25: Constraints imposed on the large sprocket module."
+  },
+  {
+    "objectID": "construction.html#sec-small-sprocket",
+    "href": "construction.html#sec-small-sprocket",
+    "title": "Prototype Construction",
+    "section": "2.10 Sprocket Module (Small)",
+    "text": "2.10 Sprocket Module (Small)\nAdd the plate fixations (6) to the backplate (2), analogously to the large sprocket module - numbered parts shown in Figure 24. Attach the sprocket (3) to the front plate (1), then mount the front plate to the backplate.\n\n\n\nFigure 26: Small sprocket module assembly.\n\n\n\n\n\nFigure 27: Part list of the small sprocket module.\n\n\n\n\n\nFigure 28: Constraints imposed on the small sprocket module."
+  },
+  {
+    "objectID": "construction.html#sec-chain",
+    "href": "construction.html#sec-chain",
+    "title": "Prototype Construction",
+    "section": "2.11 Motorcycle Chain",
+    "text": "2.11 Motorcycle Chain\nIf the chain has more than 66 links, it will most likely have to be shortened.\n\n\n\nFigure 29: Motorcycle chain."
+  },
+  {
+    "objectID": "construction.html#sec-upper-side-panels",
+    "href": "construction.html#sec-upper-side-panels",
+    "title": "Prototype Construction",
+    "section": "2.12 Upper Side Panels",
+    "text": "2.12 Upper Side Panels\nWeld the stud (3) to the panel’s (2) slot - numbered parts shown in Figure 31. The two panels must have their stud on opposite sides to make sure they are both pointing away from the crusher once installed.\n\n\n\nFigure 30: Upper side panel overview.\n\n\n\n\n\nFigure 31: Upper side panel part list.\n\n\n\n\n\nFigure 32: Constraints imposed on the upper side panel assembly."
+  },
+  {
+    "objectID": "construction.html#sec-cover",
+    "href": "construction.html#sec-cover",
+    "title": "Prototype Construction",
+    "section": "2.13 Cover",
+    "text": "2.13 Cover\nTo make sure the cover fits the way it should, it is recommended to build the cover directly on top of the crusher. To do so, proceed as follows. First, attach the upper side panels, the crank side panel and the large side panel to the frame. Mark the position of the large funnel plate (5) on the inside of the crusher’s upper side panels - numbered part list shown in Figure 34. Make sure the panel is aligned with the marking, then weld the funnel support (2) to it. Next, mark the position of the smaller funnel panel (6) on the inside of the upper side panels. Place both the larger and smaller funnel panel into the crusher, make sure they are aligned with their marking, then weld the side panels (9) to them. Add the chute plate (7) and its side pieces (12). If it did not already do so before, the cover structure should be able to maintain its position on its own by now. With the cover structure still inside the crusher, place the cover supports (3) & (8) onto their respective pin on the upper side panels. Make sure they are vertically aligned, then weld them to the chute’s side pieces (12) and subsequently add the chute supports (11), the crossbar (4), and the two struts (10). Finally, attach the soft cover (1) and the front flaps (13) using zip ties (14) & (15).\n\n\n\nFigure 33: Cover assembly overview.\n\n\n\n\n\nFigure 34: Cover part list.\n\n\n\n\n\nFigure 35: Constraints imposed on the cover."
+  },
+  {
+    "objectID": "construction.html#sec-roller-platform",
+    "href": "construction.html#sec-roller-platform",
+    "title": "Prototype Construction",
+    "section": "2.6 Roller Mounting Platform",
+    "text": "2.6 Roller Mounting Platform\nWeld the two inserts (2) to the roller platform (1) and flatten the welds - numbered parts shown in Figure 15.\n\n\n\nFigure 15: Part list of the roller mounting platform.\n\n\n\n\n\nFigure 16: Constraints imposed on the roller mounting platform assembly."
+  },
+  {
+    "objectID": "operation-maintenance.html#sec-sop",
+    "href": "operation-maintenance.html#sec-sop",
+    "title": "Prototype Operation & Maintenance",
+    "section": "1.1 Standard Operating Procedure",
+    "text": "1.1 Standard Operating Procedure\n\nPut a bucket underneath the crusher. Place it as high up as possible by stacking bricks under it.\nThrow in the glass through the chute. Avoid putting in too much at a time.\nSlowly turn the crank. If there is a noticeable resistance buildup, do not force the crank further. Instead, rotate it backward a bit, then go forward again. It might be necessary to repeat this multiple times. If this does not solve the issue, refer to the section What if the machine jams?.\nOnce all the glass has been crushed, the bucket can be removed."
+  },
+  {
+    "objectID": "operation-maintenance.html#sec-changing-roller-gap",
+    "href": "operation-maintenance.html#sec-changing-roller-gap",
+    "title": "Prototype Operation & Maintenance",
+    "section": "1.2 Changing the Roller Gap",
+    "text": "1.2 Changing the Roller Gap\nThe design was originally conceived in a way that allows the roller closest to the crank to be moved back and forth. The idea was that by adjusting the roller gap, different sizes of glass could be crushed and produced. Doing so involves the following steps:\n\nLoosen chain guides 1 & 2 (see Figure 1).\nLoosen the four bolts that are used to fasten the roller’s bearing brackets to their respective platform. The two bolts on the drivetrain side can be difficult to access; using an L-shaped hex socket wrench with a long shaft is recommended.\nMove the roller to adjust the gap from wide to narrow or vice versa.\nRefasten the bearing bracket bolts.\nSlide the chain guides downwards to put tension on the chain. Make sure the chain is in contact with the plastic sleeves and fasten the chain guides.\nPull on the chain to check if it is not too loose, then turn the crank to make sure that there is not too much tension either. If necessary, readjust.\n\nIMPORTANT NOTE: The wider setting ultimately proved to be completely ineffective at crushing intact glass bottles—the sole reason it was included as a design feature in the first place; hence, the glass crusher ended up being used exclusively on the narrowest setting. The usefulness and effectiveness of the wider setting is thus not guaranteed.\n\n\n\nFigure 1. Chain tightening cylinders - loosen to change the roller gap or replace the chain."
+  },
+  {
+    "objectID": "operation-maintenance.html#sec-reg-maintenance",
+    "href": "operation-maintenance.html#sec-reg-maintenance",
+    "title": "Prototype Operation & Maintenance",
+    "section": "2.1 Regular Maintenance",
+    "text": "2.1 Regular Maintenance\nGrease the chain and sprockets as needed to ensure a smooth operation.\nAt some point, it might additionally be necessary to replace one of the two 520 motorcycle chains or the chain guide sleeves. To do so, proceed as follows:\n\nLoosen chain guides 1 & 2 (see Figure 1) and slide them upwards.\nWith the chain tension removed, the chain or the chain guide sleeves can be removed and replaced.\nAfter the replacement is done, slide the chain guides back downwards to put tension on the chain. Make sure the chain is in contact with the plastic sleeves and fasten the chain guides.\nPull on the chain to check if it is not too loose, then turn the crank to make sure that there is not too much tension either. If necessary, readjust."
   }
 ]

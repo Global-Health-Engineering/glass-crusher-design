@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <!-- badges: end -->
 
-<h1> Design, Maintenance, and Operation of the Low-Cost Glass Crusher for Chembe, Malawi </h1>
+<h1> Low-Cost Glass Crusher for Cape Maclear, Malawi: Design, Maintenance, Operation, and Results </h1>
 
 <b>Contributors</b>  
 - Philippe Colbach <a href="https://orcid.org/0009-0004-5631-8744">

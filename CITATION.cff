@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "To cite this repository, use:"
 license: CC-BY-4.0
-title: "Construction of a Glass Crusher and Evaluation of Waste Valorization Pathways for Chembe, Malawi"
+title: "Construction of a Glass Crusher and Evaluation of Waste Valorization Pathways for Cape Maclear, Malawi"
 date-released: "2024-03-26"
 type: software
 authors:
@@ -9,18 +9,14 @@ authors:
     given-names: Philippe
     email: colbach.philippe@gmail.com
     ordid: https://orcid.org/0009-0004-5631-8744
-  - family-names: Tilley
-    given-names: Elizabeth
-    email: tilleye@ethz.ch
-    orcid: https://orcid.org/0000-0002-2095-9724
   - family-names: Tkaczuk
     given-names: Jakub
     email: jtkaczuk@ethz.ch
     orcid: https://orcid.org/0000-0001-7997-9423
-  - family-names: Kalina
-    given-names: Marc
-    email: mkalina@ethz.ch
-    orcid: https://orcid.org/0000-0002-6335-3845
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
 contact:
   - family-names: Colbach
     given-names: Philippe
