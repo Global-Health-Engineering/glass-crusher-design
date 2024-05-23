@@ -7,6 +7,7 @@ format: html
 
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11259329.svg)](https://doi.org/10.5281/zenodo.11259329)
 <!-- badges: end -->
 
 <b>Contributors:</b>  
@@ -19,6 +20,8 @@ format: html
 - Elizabeth Tilley <a href="https://orcid.org/0000-0002-2095-9724">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
 </a> *supervisor*  
+
+Github repository for this page sits [here](https://github.com/Global-Health-Engineering/glass-crusher-design).
 
 # Introduction {#sec-intro}
 
