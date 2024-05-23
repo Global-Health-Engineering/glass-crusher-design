@@ -4,16 +4,6 @@ number-sections: true
 format: html
 ---
 
-<h1>Table of Contents</h1>
-
-| [-@sec-operation]. Prototype Operation  
-|     [-@sec-sop] Standard Operating Procedure  
-|     [-@sec-changing-roller-gap] Changing the Roller Gap  
-| [-@sec-maintenance]. Prototype Maintenance  
-|     [-@sec-reg-maintenance] Regular Maintenance  
-|     [-@sec-chain] Replacing the chain  
-|     [-@sec-jam] What if the machine jams?  
-
 # Prototype Operation {#sec-operation}
 
 ## Standard Operating Procedure {#sec-sop}
@@ -36,7 +26,7 @@ The design was originally conceived in a way that allows the roller closest to t
 
 **IMPORTANT NOTE**: The wider setting ultimately proved to be completely ineffective at crushing intact glass bottles—the sole reason it was included as a design feature in the first place; hence, the glass crusher ended up being used exclusively on the narrowest setting. The usefulness and effectiveness of the wider setting is thus not guaranteed.
 
-![Figure 1. Chain tightening cylinders - loosen to change the roller gap or replace the chain.](img/schematics/chain_guides.png){width=80%}
+![Figure 1. Chain tightening cylinders - loosen to change the roller gap or replace the chain.](img/other_figures/chain_guides.png){width=80%}
 
 # Prototype Maintenance {#sec-maintenance}
 
@@ -70,7 +60,7 @@ If the issue is not solvable by reaching in through the top, the top structure i
 2. Rotate the top upwards. Lifting it off the screw requires a bit of force.
 3. Once rotated, slide it off the two pins at the front and the top has been successfully removed.
 
-![Figure 2. Procedure for removing the top.](img/schematics/maintenance_opening.png){width=100%}
+![Figure 2. Procedure for removing the top.](img/other_figures/maintenance_opening.png){width=100%}
 
 To put it back, follow the same procedure in reverse:
 

@@ -4,25 +4,6 @@ number-sections: true
 format: html
 ---
 
-<h1>Table of Contents</h1>
-
-| [-@sec-overview]. Overview  
-| [-@sec-sub-assemblies]. Sub-assemblies  
-|     [-@sec-base-frame]. Base Frame  
-|     [-@sec-crank] Crank  
-|     [-@sec-crank-side-panel] Crank Side Panel  
-|     [-@sec-chain-guides] Chain Guides  
-|     [-@sec-drivetrain-panel] Drivetrain Panel  
-|     [-@sec-roller-platform] Roller Mounting Platform  
-|     [-@sec-roller-brackets] Roller Bearing Brackets  
-|     [-@sec-rollers] Rollers  
-|     [-@sec-large-sprocket] Sprocket Module (Large)  
-|     [-@sec-small-sprocket] Sprocket Module (Small)  
-|     [-@sec-chain] Motorcycle Chain  
-|     [-@sec-upper-side-panels] Upper Side Panels  
-|     [-@sec-cover] Cover  
-| [-@sec-full-assembly]. Full Assembly  
-
 # Overview {#sec-overview}
 
 The technical drawings should provide enough information on their own to reproduce the parts. These instructions therefore assume that the reader has already prepared all the parts and that the only remaining step is their assembly. They furthermore assume that the reader wants to make an identical copy of the crusher; due to dimensional dependencies, any modification made to one part may negatively affect how well, if at all, others are going to fit.

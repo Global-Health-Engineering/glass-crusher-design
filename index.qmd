@@ -13,20 +13,12 @@ format: html
 - Philippe Colbach <a href="https://orcid.org/0009-0004-5631-8744">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0009-0004-5631-8744
 </a> *author, maintainer*  
-- Elizabeth Tilley <a href="https://orcid.org/0000-0002-2095-9724">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
-</a> *supervisor*  
 - Jakub Tkaczuk <a href="https://orcid.org/0000-0001-7997-9423">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423
 </a> *supervisor, developer*  
-
-<h1>Table of Contents</h1>
-
-[-@sec-intro]. Introduction  
-[-@sec-overview]. Prototype overview  
-[-@sec-list]. Part List  
-[-@sec-safety]. Safety Precautions  
-[-@sec-license]. License  
+- Elizabeth Tilley <a href="https://orcid.org/0000-0002-2095-9724">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
+</a> *supervisor*  
 
 # Introduction {#sec-intro}
 
@@ -36,7 +28,7 @@ This documentation details the construction, operation, and maintenance of the g
 
 The glass crusher uses two roller mills to crush the glass. The rollers are rotated using a crank and a drivetrain made mostly from motorcycle parts. It is a mostly closed construction to shield the operator(s) from glass dust and shards.
 
-![Figure 1: Complete assembly of the glass crusher.](img/crusher.jpg){width=100%}
+![Figure 1: Complete assembly of the glass crusher.](img/other_figures/crusher.jpg){width=80%}
 
 During testing, it became clear that the crusher was not strong enough to break intact glass bottles. Therefore, an additional pre-crusher was built to break the bottles first before inserting their shards into the main crusher for further refinement.
 
