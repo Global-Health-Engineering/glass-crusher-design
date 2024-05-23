@@ -35,7 +35,7 @@ Sustainable Cape Maclear has been working on the development and implementation 
 
 After evaluating already established glass crusher variants, the design of choice became a manually driven roller mill. During testing, the drivetrain proved to be a major weak point. Due to its insufficient structural strength, the crusher was unable to crush intact glass bottles. However, breaking the bottles first and inserting their shards into the crusher worked well, producing particles of various sizes ranging from powder to several centimeters. Therefore, a second and more basic crusher, not described in this repository but detailed in the thesis, was built to take over the initial bottle-breaking task. The latter can serve as a standalone crusher, if large shard sizes are sufficient, or it can be combined with the original crusher, if smaller sizes are desired. In hindsight, it would have been better to build a more basic and robust crusher right from the start to circumvent many of the issues that arose. Overall, the current system is nonetheless capable of processing the village’s daily amount of waste glass within an acceptable time frame.
 
-![](img/other_figures/crusher.jpg){width=80%}
+![](img/other_figures/crusher.jpg)
 
 # pdf Documentation
 
