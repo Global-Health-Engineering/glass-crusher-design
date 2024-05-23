@@ -3,6 +3,7 @@ message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Construction of a Glass Crusher and Evaluation of Waste Valorization Pathways for Cape Maclear, Malawi"
 date-released: "2024-03-26"
+doi: 10.5281/zenodo.11259330
 type: software
 authors:
   - family-names: Colbach

@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11259329.svg)](https://doi.org/10.5281/zenodo.11259329)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11259330.svg)](https://doi.org/10.5281/zenodo.11259330)
 <!-- badges: end -->
 
 <h1> Low-Cost Glass Crusher for Cape Maclear, Malawi: Design, Maintenance, Operation, and Results </h1>
