@@ -10,8 +10,8 @@ Directory containing CAD drawings in `.stp`, `.prt`, and `.pdf` formats.
 | `sub-assemblies/cover`                    | Drawings of the crusher's cover                               |
 | `sub-assemblies/extended_frame`           | Drawings of the assembled, extended frame                     |
 | `sub-assemblies/motorcycle_chains`        | Drawings of the motorcycle chain                              |
-| `sub-assemblies/roller_mounting_platform` | Drawings of the rolling mounting platform                     |
-| `sub-assemblies/rollers`                  | Rollers' drawings                                             |
+| `sub-assemblies/roller_mounting_platform` | Drawings of the roller mounting platform                      |
+| `sub-assemblies/rollers`                  | Drawings of the rollers                                       |
 | `sub-assemblies/sprocket_module_large`    | Drawings of the large sprocket module                         |
 | `sub-assemblies/sprocket_module_small`    | Drawings of the small sprocket module                         |
 | `sub-assemblies/upper_side_panels`        | Drawings of the upper side panels                             |
