@@ -27,7 +27,7 @@ Github repository for this page sits [here](https://github.com/Global-Health-Eng
 
 This documentation details the construction, operation, and maintenance of the glass crusher that was built as part of a collaboration between the Malawian nonprofit organization Sustainable Cape Maclear and the Global Health Engineering Group at ETH Zürich.
 
-# Prototype overview {#sec-overview}
+# Prototype Overview {#sec-overview}
 
 The glass crusher uses two roller mills to crush the glass. The rollers are rotated using a crank and a drivetrain made mostly from motorcycle parts. It is a mostly closed construction to shield the operator(s) from glass dust and shards.
 
