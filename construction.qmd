@@ -20,7 +20,7 @@ Start by welding the connecting bars (1) & (8) to the corner profiles (6) & (7) 
 
 ![Figure 2: Part list of the base frame.](img/drawings/A_Frame_dwg-2.jpg){width=100%}
 
-![Figure 3: Constraints on the base frame design.](img/drawings/A_Frame_dwg-3.jpg){width=100%}
+![Figure 3: Welding instructions for the base frame design.](img/drawings/A_Frame_dwg-3.jpg){width=100%}
 
 ## Crank {#sec-crank}
 
@@ -28,7 +28,7 @@ The crank consists mostly of pipes and pipe fittings screwed together, but a cou
 
 ![Figure 4: Part list of the crank assembly.](img/drawings/A_Crank_dwg-2.jpg){width=100%}
 
-![Figure 5: Crank overview.](img/drawings/A_Crank_dwg-3.jpg){width=100%}
+![Figure 5: Welding instructions for the crank.](img/drawings/A_Crank_dwg-3.jpg){width=100%}
 
 ## Crank Side Panel {#sec-crank-side-panel}
 
@@ -40,7 +40,7 @@ It is equally important to weld the junction between the bracket base (7) and br
 
 ![Figure 7: Part list of the side panel.](img/drawings/A_Crank_Side_Panel_dwg-2.jpg){width=100%}
 
-![Figure 8: Detailed view of the side panel.](img/drawings/A_Crank_Side_Panel_dwg-3.jpg){width=100%}
+![Figure 8: Welding instructions for the side panel.](img/drawings/A_Crank_Side_Panel_dwg-3.jpg){width=100%}
 
 ## Chain Guides {#sec-chain-guides}
 
@@ -50,7 +50,7 @@ The long and short chain guides both follow the same assembly scheme, which is w
 
 ![Figure 10: Chain guide part list.](img/drawings/A_Chain_Guide_S_dwg-2.jpg){width=100%}
 
-![Figure 11: Constraints imposed on the chain guide assembly.](img/drawings/A_Chain_Guide_S_dwg-3.jpg){width=100%}
+![Figure 11: Welding instructions for the chain guide assembly.](img/drawings/A_Chain_Guide_S_dwg-3.jpg){width=100%}
 
 ## Drivetrain Panel {#sec-drivetrain-panel}
 
@@ -60,7 +60,7 @@ Next up is the drivetrain panel. Start by welding the roller platform (9) to the
 
 ![Figure 13: Drive train part list.](img/drawings/A_Side_Panel_S_Bot_Drivetrain_dwg-2.jpg){width=100%}
 
-![Figure 14: Constraints imposed on the drive train assembly.](img/drawings/A_Side_Panel_S_Bot_Drivetrain_dwg-3.jpg){width=100%}
+![Figure 14: Welding instructions for the drive train assembly.](img/drawings/A_Side_Panel_S_Bot_Drivetrain_dwg-3.jpg){width=100%}
 
 ## Roller Mounting Platform {#sec-roller-platform}
 
@@ -68,7 +68,7 @@ Weld the two inserts (2) to the roller platform (1) and flatten the welds - numb
 
 ![Figure 15: Part list of the roller mounting platform.](img/drawings/A_Roller_Mounting_Platform_Rebuilt_dwg-1.jpg){width=100%}
 
-![Figure 16: Constraints imposed on the roller mounting platform assembly.](img/drawings/A_Roller_Mounting_Platform_Rebuilt_dwg-2.jpg){width=100%}
+![Figure 16: Welding instructions for the roller mounting platform assembly.](img/drawings/A_Roller_Mounting_Platform_Rebuilt_dwg-2.jpg){width=100%}
 
 ## Roller Bearing Brackets {#sec-roller-brackets}
 
@@ -78,7 +78,7 @@ The construction procedure is identical for both the movable and fixed brackets.
 
 ![Figure 18: Part list of the roller bearing bracket.](img/drawings/A_Roller_Bearing_Bracket_Fixed_dwg-2.jpg){width=100%}
 
-![Figure 19: Constraints imposed on the roller bearing bracket assembly.](img/drawings/A_Roller_Bearing_Bracket_Fixed_dwg-3.jpg){width=100%}
+![Figure 19: Welding instructions for the roller bearing bracket assembly.](img/drawings/A_Roller_Bearing_Bracket_Fixed_dwg-3.jpg){width=100%}
 
 ## Rollers {#sec-rollers}
 
@@ -88,7 +88,7 @@ Weld the ten square profiles (3) to the roller body (1) - numbered parts shown i
 
 ![Figure 21: Part list of the roller assembly.](img/drawings/A_Roller_dwg-2.jpg){width=100%}
 
-![Figure 22: Constraints imposed on the roller assembly.](img/drawings/A_Roller_dwg-3.jpg){width=100%}
+![Figure 22: Welding instructions for the roller assembly.](img/drawings/A_Roller_dwg-3.jpg){width=100%}
 
 ## Sprocket Module (Large) {#sec-large-sprocket}
 
@@ -98,17 +98,17 @@ Weld the plate fixations (5) to the backplate (3) - numbered parts shown in Figu
 
 ![Figure 24: Part list of the large sprocket module.](img/drawings/A_Sprocket_Module_L_dwg-2.jpg){width=100%}
 
-![Figure 25: Constraints imposed on the large sprocket module.](img/drawings/A_Sprocket_Module_L_dwg-3.jpg){width=100%}
+![Figure 25: Welding instructions for the large sprocket module.](img/drawings/A_Sprocket_Module_L_dwg-3.jpg){width=100%}
 
 ## Sprocket Module (Small) {#sec-small-sprocket}
 
-Add the plate fixations (6) to the backplate (2), analogously to the large sprocket module - numbered parts shown in Figure 24. Attach the sprocket (3) to the front plate (1), then mount the front plate to the backplate.
+Add the plate fixations (6) to the backplate (2), analogously to the large sprocket module - numbered parts shown in Figure 27. Attach the sprocket (3) to the front plate (1), then mount the front plate to the backplate.
 
 ![Figure 26: Small sprocket module assembly.](img/drawings/A_Sprocket_Module_S_dwg-1.jpg){width=100%}
 
 ![Figure 27: Part list of the small sprocket module.](img/drawings/A_Sprocket_Module_S_dwg-2.jpg){width=100%}
 
-![Figure 28: Constraints imposed on the small sprocket module.](img/drawings/A_Sprocket_Module_S_dwg-3.jpg){width=100%}
+![Figure 28: Welding instructions for the small sprocket module.](img/drawings/A_Sprocket_Module_S_dwg-3.jpg){width=100%}
 
 ## Motorcycle Chain {#sec-chain}
 
@@ -120,25 +120,25 @@ If the chain has more than 66 links, it will most likely have to be shortened.
 
 Weld the stud (3) to the panel’s (2) slot - numbered parts shown in Figure 31. The two panels must have their stud on opposite sides to make sure they are both pointing away from the crusher once installed.
 
-![Figure 30: Upper side panel overview.](img/drawings/A_Side_Panel_S_Top_Left_Right_dwg-1.jpg){width=100%}
+![Figure 30: Upper side panel assembly.](img/drawings/A_Side_Panel_S_Top_Left_Right_dwg-1.jpg){width=100%}
 
 ![Figure 31: Upper side panel part list.](img/drawings/A_Side_Panel_S_Top_Left_Right_dwg-2.jpg){width=100%}
 
-![Figure 32: Constraints imposed on the upper side panel assembly.](img/drawings/A_Side_Panel_S_Top_Left_Right_dwg-3.jpg){width=100%}
+![Figure 32: Welding instructions for the upper side panel assembly.](img/drawings/A_Side_Panel_S_Top_Left_Right_dwg-3.jpg){width=100%}
 
 ## Cover {#sec-cover}
 
 To make sure the cover fits the way it should, it is recommended to build the cover directly on top of the crusher. To do so, proceed as follows. First, attach the upper side panels, the crank side panel and the large side panel to the frame. Mark the position of the large funnel plate (5) on the inside of the crusher’s upper side panels - numbered part list shown in Figure 34. Make sure the panel is aligned with the marking, then weld the funnel support (2) to it. Next, mark the position of the smaller funnel panel (6) on the inside of the upper side panels. Place both the larger and smaller funnel panel into the crusher, make sure they are aligned with their marking, then weld the side panels (9) to them. Add the chute plate (7) and its side pieces (12). If it did not already do so before, the cover structure should be able to maintain its position on its own by now. With the cover structure still inside the crusher, place the cover supports (3) & (8) onto their respective pin on the upper side panels. Make sure they are vertically aligned, then weld them to the chute’s side pieces (12) and subsequently add the chute supports (11), the crossbar (4), and the two struts (10). Finally, attach the soft cover (1) and the front flaps (13) using zip ties (14) & (15).
 
-![Figure 33: Cover assembly overview.](img/drawings/A_Cover_dwg-1.jpg){width=100%}
+![Figure 33: Cover assembly.](img/drawings/A_Cover_dwg-1.jpg){width=100%}
 
 ![Figure 34: Cover part list.](img/drawings/A_Cover_dwg-2.jpg){width=100%}
 
-![Figure 35: Constraints imposed on the cover.](img/drawings/A_Cover_dwg-3.jpg){width=100%}
+![Figure 35: Welding instructions for the cover.](img/drawings/A_Cover_dwg-3.jpg){width=100%}
 
 # Full Assembly {#sec-full-assembly}
 
-The recommended assembly order goes as follows. First, attach the large side panel (4), the crank side panel (6) with the crank (2), the drivetrain panel (5), the lower side panel (3), and the roller mounting platform (1) to the frame - numbered part list shown in Figure 36.
+The recommended assembly order goes as follows. First, attach the large side panel (4), the crank side panel (6) with the crank (2), the drivetrain panel (5), the lower side panel (3), and the roller mounting platform (1) to the frame (7) - numbered part list shown in Figure 36.
 
 ![Figure 36: Overview of the extended frame assembly.](img/drawings/A_Extended_Frame_dwg-2.jpg){width=100%}
 
