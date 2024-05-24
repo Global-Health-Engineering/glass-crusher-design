@@ -41,15 +41,6 @@ At some point, it might additionally be necessary to replace one of the two 520 
 3. After the replacement is done, slide the chain guides back downwards to put tension on the chain. Make sure the chain is in contact with the plastic sleeves and fasten the chain guides.
 4. Pull on the chain to check if it is not too loose, then turn the crank to make sure that there is not too much tension either. If necessary, readjust.
 
-## Replacing the chain {#sec-chain}
-
-At some point, it might be necessary to replace one of the two 520 motorcycle chains. To do so, proceed as follows:
-
-1. Loosen the two cylinders (see Figure 1) so that they can slide upwards.
-2. With the tension removed, remove the chain. Now is a good time to check if the plastic sleeves around the tubes are still in an acceptable condition. If not, replace them. Put on the new chain.
-3. Slide the tubes back downwards to put tension on the chain, make sure the chain is in contact with the plastic sleeves, and fasten the two screws.
-4. Pull on the chain to check that it is not too loose, then turn the crank to make sure that there is not too much tension. If necessary, readjust.
-
 ## What if the machine jams? {#sec-jam}
 
 If something jams the machine, it usually suffices to reach into the crusher and remove the piece that is causing the jam by hand. Make sure that no other person is using the crusher in the meantime. If possible, firmly hold the crank with your free hand to make sure the rollers do not start moving on their own.
@@ -57,13 +48,15 @@ If something jams the machine, it usually suffices to reach into the crusher and
 If the issue is not solvable by reaching in through the top, the top structure is designed to be removable. To do so, proceed as follows:
 
 1. Remove the screw nut at the back.
-2. Rotate the top upwards. Lifting it off the screw requires a bit of force.
+2. Rotate the top upwards.
 3. Once rotated, slide it off the two pins at the front and the top has been successfully removed.
 
 ![Figure 2. Procedure for removing the top.](img/other_figures/maintenance_opening.png){width=100%}
 
 To put it back, follow the same procedure in reverse:
 
-1. Place the front of the top into the crusher and slide it onto the two pins.
-2. Rotate the top’s back downwards. Fitting the screw into the slit requires a good amount of force. It can be helpful to put a finger around the screw and pull it backwards.
+1. Place the front of the cover structure into the crusher and make sure the two hooks slide onto their respective pin.
+2. Rotate the top’s rear down onto the screw.
 3. Put the nut back onto the screw.
+
+**Note**: It is possible to almost entirely disassemble the glass crusher, but it is highly recommended not to do so unless absolutely necessary.
