@@ -20,12 +20,15 @@
 <p align="middle"> 
 <img src="img/ETH_GHE_logo.svg" width=600>
 <br><br>
+This work is certified by the Open Source Hardware Association.<br \>
+<a href="https://certification.oshwa.org/ch000022.html"><img src="img/certification-mark-CH000022-wide.svg" width=300></a>
+<br>
 <b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
 <a href="https://global-health-engineering.github.io/glass-crusher-design/">Github pages</a>.
 </b>
 <br><br>
 It compliments the openly-accessible master’s thesis, available on the<br \>  
-<a href="TO_BE_FILLED">ETH Research Collection</a>.
+<a href="http://hdl.handle.net/20.500.11850/670971">ETH Research Collection</a>.
 </p>
 
 # Background
